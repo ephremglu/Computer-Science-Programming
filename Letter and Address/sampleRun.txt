@@ -1,0 +1,181 @@
+[Stu Steiner
+123 Slacker Lane
+Slackerville, IL 19035,
+
+Tom Capaul
+999 Computer Nerd Court
+Dweebsville, NC 28804,
+
+Bernie Sanders
+998 Computer Nerd Court
+Dweebsville, NC 28804,
+
+Chris Peters
+123 Some St.
+Anytown, CA 92111,
+
+Stuart Steiner
+1234 Slacker Lane
+Slackerville, IL 19035,
+
+US President
+1600 Pennsylvania Avenue NW
+Washington, DC 20500]
+
+Please choose from the following
+1) Print all Letters to the screen
+2) Add a new letter to the array
+3) Organize the letters based on zip
+4) Organize the letters based on the to name
+5) Quit
+Choice --> 1
+[Chris Peters
+123 Some St.
+Anytown, CA 92111,
+
+US President
+1600 Pennsylvania Avenue NW
+Washington, DC 20500,
+
+Stu Steiner
+123 Slacker Lane
+Slackerville, IL 19035,
+
+Stuart Steiner
+1234 Slacker Lane
+Slackerville, IL 19035,
+
+Bernie Sanders
+998 Computer Nerd Court
+Dweebsville, NC 28804,
+
+Tom Capaul
+999 Computer Nerd Court
+Dweebsville, NC 28804]
+
+Please choose from the following
+1) Print all Letters to the screen
+2) Add a new letter to the array
+3) Organize the letters based on zip
+4) Organize the letters based on the to name
+5) Quit
+Choice --> 2
+Please enter the street 9876 Comstock St
+Please enter the city Billings
+Please enter the full state name Montana
+Please enter the zipcode 59901
+Please enter the name of the person Fred Smith
+
+Please choose from the following
+1) Print all Letters to the screen
+2) Add a new letter to the array
+3) Organize the letters based on zip
+4) Organize the letters based on the to name
+5) Quit
+Choice --> 1
+[Chris Peters
+123 Some St.
+Anytown, CA 92111,
+
+US President
+1600 Pennsylvania Avenue NW
+Washington, DC 20500,
+
+Stu Steiner
+123 Slacker Lane
+Slackerville, IL 19035,
+
+Stuart Steiner
+1234 Slacker Lane
+Slackerville, IL 19035,
+
+Bernie Sanders
+998 Computer Nerd Court
+Dweebsville, NC 28804,
+
+Tom Capaul
+999 Computer Nerd Court
+Dweebsville, NC 28804,
+
+Fred Smith
+9876 Comstock St
+Billings, MT 59901]
+
+Please choose from the following
+1) Print all Letters to the screen
+2) Add a new letter to the array
+3) Organize the letters based on zip
+4) Organize the letters based on the to name
+5) Quit
+Choice --> 3
+[Stu Steiner
+123 Slacker Lane
+Slackerville, IL 19035,
+
+Stuart Steiner
+1234 Slacker Lane
+Slackerville, IL 19035,
+
+US President
+1600 Pennsylvania Avenue NW
+Washington, DC 20500,
+
+Bernie Sanders
+998 Computer Nerd Court
+Dweebsville, NC 28804,
+
+Tom Capaul
+999 Computer Nerd Court
+Dweebsville, NC 28804,
+
+Fred Smith
+9876 Comstock St
+Billings, MT 59901,
+
+Chris Peters
+123 Some St.
+Anytown, CA 92111]
+
+Please choose from the following
+1) Print all Letters to the screen
+2) Add a new letter to the array
+3) Organize the letters based on zip
+4) Organize the letters based on the to name
+5) Quit
+Choice --> 4
+[Bernie Sanders
+998 Computer Nerd Court
+Dweebsville, NC 28804,
+
+Chris Peters
+123 Some St.
+Anytown, CA 92111,
+
+Fred Smith
+9876 Comstock St
+Billings, MT 59901,
+
+Stu Steiner
+123 Slacker Lane
+Slackerville, IL 19035,
+
+Stuart Steiner
+1234 Slacker Lane
+Slackerville, IL 19035,
+
+Tom Capaul
+999 Computer Nerd Court
+Dweebsville, NC 28804,
+
+US President
+1600 Pennsylvania Avenue NW
+Washington, DC 20500]
+
+Please choose from the following
+1) Print all Letters to the screen
+2) Add a new letter to the array
+3) Organize the letters based on zip
+4) Organize the letters based on the to name
+5) Quit
+Choice --> 5
+Program Ending
