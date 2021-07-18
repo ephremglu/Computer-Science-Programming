@@ -36,4 +36,4 @@ This repository contains my current and on-going Computer Science Programming pr
 
 ## License & Copywrite
 
-© Ephrem Glushchenko, https://ephremglu.github.io/
+[©](https://github.com/ephremglu/Computer-Science-Programming/blob/main/LICENSE) Ephrem Glushchenko, https://ephremglu.github.io/
