@@ -1,0 +1,40 @@
+1. reverse the string
+2. reverse the file
+3. do both
+4. quit
+Choice --> 1
+Please enter a string: abc
+The String:
+abc
+
+In reverse is:
+cba
+
+1. reverse the string
+2. reverse the file
+3. do both
+4. quit
+Choice --> 2
+Please enter the name of the file input.txt
+and in the darkness bind them.
+One ring to bring them all,
+One ring to find them.
+One ring to rule them all.
+
+1. reverse the string
+2. reverse the file
+3. do both
+4. quit
+Choice --> 3
+Please enter the name of the file input.txt
+.meht dnib ssenkrad eht ni dna
+,lla meht gnirb ot gnir enO
+.meht dnif ot gnir enO
+.lla meht elur ot gnir enO
+
+1. reverse the string
+2. reverse the file
+3. do both
+4. quit
+Choice --> 4
+EXITING
