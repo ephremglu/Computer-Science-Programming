@@ -1,0 +1,195 @@
+1) File empty.txt exists but is empty.
+Please enter the filename: 
+empty.txt
+Exception in thread "main" java.lang.RuntimeException: Count equal to zero
+	at cscd210Utils.FileUtils.countRecords(FileUtils.java:21)
+	at cscd210Lab9.CSCD210Lab9.main(CSCD210Lab9.java:24)
+
+2) File outOfOrder is a file with a bunch of random character strings that are in a random order.
+Please enter the filename: 
+outOfOrder.txt
+az
+bfgv
+bsdagvc
+bx
+dfh
+ds
+fd
+fh
+g
+g
+gf
+ghtg
+gn
+hsz
+ndx
+rtg
+ru
+ryh
+sdgafdggf
+sdgasd
+sz
+sz
+xd
+zv
+
+
+
+adversativeconjunction
+anthropomorphologically
+antidisestablishmentarianism
+antiestablishmentarians
+beating around the bush
+carboxymethylcelluloses
+chlorotrifluoroethylene
+cyclotrimethylenetrinitramine
+deinstitutionalizations
+dichlorodifluoromethane
+electroencephalographic
+electrophotomicrography
+ethylenediaminetetraacetates
+floccinaucinihilipilification
+hexamethylenetetramines
+hydrochlorofluorocarbon
+hypobetalipoproteinemia
+magnetohydrodynamically
+methylenedioxymethamphetamine
+microspectrophotometric
+penny for your thoughts
+polytetrafluoroethylene
+thymolsulphonephthalein
+transubstantiationalist
+
+
+
+Exception in thread "main" java.lang.RuntimeException: File could not be opened
+	at cscd210Utils.FileUtils.openInputFile(FileUtils.java:48)
+	at cscd210Lab9.CSCD210Lab9.main(CSCD210Lab9.java:51)
+
+3) testing names and random characters of files that dont exist, it will ask for a file until one that exists is put in. File words.txt is tested.
+Please enter the filename: 
+nofileexists.txt
+Please enter the filename: 
+asdrgdarg
+Please enter the filename: 
+dfs
+Please enter the filename: 
+words.txt
+a
+aardvark
+aback
+abacus
+abaft
+abalone
+abandon
+abandoned
+abase
+abash
+abate
+azure
+b
+babble
+babe
+babel
+baboon
+babushka
+baby
+baccalaureate
+bacchanalia
+bachelor
+bacillus
+back
+
+
+
+adversativeconjunction
+anthropomorphologically
+antidisestablishmentarianism
+antiestablishmentarians
+beating around the bush
+carboxymethylcelluloses
+chlorotrifluoroethylene
+cyclotrimethylenetrinitramine
+deinstitutionalizations
+dichlorodifluoromethane
+electroencephalographic
+electrophotomicrography
+ethylenediaminetetraacetates
+floccinaucinihilipilification
+hexamethylenetetramines
+hydrochlorofluorocarbon
+hypobetalipoproteinemia
+magnetohydrodynamically
+methylenedioxymethamphetamine
+microspectrophotometric
+penny for your thoughts
+polytetrafluoroethylene
+thymolsulphonephthalein
+transubstantiationalist
+
+
+
+Exception in thread "main" java.lang.RuntimeException: File could not be opened
+	at cscd210Utils.FileUtils.openInputFile(FileUtils.java:48)
+	at cscd210Lab9.CSCD210Lab9.main(CSCD210Lab9.java:51)
+
+4) testing file words2.txt
+Please enter the filename: 
+words2.txt
+adversativeconjunction
+anthropomorphologically
+antidisestablishmentarianism
+antiestablishmentarians
+beating around the bush
+carboxymethylcelluloses
+chlorotrifluoroethylene
+cyclotrimethylenetrinitramine
+deinstitutionalizations
+dichlorodifluoromethane
+electroencephalographic
+electrophotomicrography
+ethylenediaminetetraacetates
+floccinaucinihilipilification
+hexamethylenetetramines
+hydrochlorofluorocarbon
+hypobetalipoproteinemia
+magnetohydrodynamically
+methylenedioxymethamphetamine
+microspectrophotometric
+penny for your thoughts
+polytetrafluoroethylene
+thymolsulphonephthalein
+transubstantiationalist
+
+
+
+adversativeconjunction
+anthropomorphologically
+antidisestablishmentarianism
+antiestablishmentarians
+beating around the bush
+carboxymethylcelluloses
+chlorotrifluoroethylene
+cyclotrimethylenetrinitramine
+deinstitutionalizations
+dichlorodifluoromethane
+electroencephalographic
+electrophotomicrography
+ethylenediaminetetraacetates
+floccinaucinihilipilification
+hexamethylenetetramines
+hydrochlorofluorocarbon
+hypobetalipoproteinemia
+magnetohydrodynamically
+methylenedioxymethamphetamine
+microspectrophotometric
+penny for your thoughts
+polytetrafluoroethylene
+thymolsulphonephthalein
+transubstantiationalist
+
+
+
+Exception in thread "main" java.lang.RuntimeException: File could not be opened
+	at cscd210Utils.FileUtils.openInputFile(FileUtils.java:48)
+	at cscd210Lab9.CSCD210Lab9.main(CSCD210Lab9.java:51)
