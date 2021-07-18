@@ -1,0 +1,801 @@
+[
+Country: Algeria
+Cedric Si Mohamed - GK - 1
+Mohamed Zemmamouche - GK - 16
+Rais M'Bolhi - GK - 23
+Madjid Bougherra - DF - 2
+Faouzi Ghoulam - DF - 3
+Essaïd Belkalem - DF - 4
+Rafik Halliche - DF - 5
+Djamel Mesbah - DF - 6
+Carl Medjani - DF - 7
+Liassine Cadamuro-Bentaïba - DF - 17
+Aissa Mandi - DF - 20
+Hassan Yebda - MF - 8
+Sofiane Feghouli - MF - 10
+Yacine Brahimi - MF - 11
+Medhi Lacen - MF - 12
+Nabil Bentaleb - MF - 14
+Abdelmoumene Djabou - MF - 18
+Saphir Taïder - MF - 19
+Riyad Mahrez - MF - 21
+Mehdi Mostefa - MF - 22
+Nabil Ghilas - FW - 9
+Islam Slimani - FW - 13
+El Arbi Hillel Soudani - FW - 15,
+
+Country: Argentina
+Mathew Ryan - GK - 1
+Mitchell Langerak - GK - 12
+Eugene Galekovi - GK - 18
+Ivan Franji - DF - 2
+Jason Davidson - DF - 3
+Matthew Špiranovi - DF - 6
+Bailey Wright - DF - 8
+Ryan McGowan - DF - 19
+Alex Wilkinson - DF - 22
+Mark Milligan - MF - 5
+Ben Halloran - MF - 10
+Tommy Oar - MF - 11
+Oliver Bozani - MF - 13
+James Troisi - MF - 14
+Mile Jedinak - MF - 15
+James Holland - MF - 16
+Matt McKay - MF - 17
+Dario Vidoši - MF - 20
+Massimo Luongo - MF - 21
+Mark Bresciano - MF - 23
+Tim Cahill - FW - 4
+Mathew Leckie - FW - 7
+Adam Taggart - FW - 9,
+
+Country: Australia   
+Mathew Ryan - GK - 1
+Mitchell Langerak - GK - 12
+Eugene Galeković - GK - 18
+Ivan Franjić - DF - 2
+Jason Davidson - DF - 3
+Matthew Špiranović - DF - 6
+Bailey Wright - DF - 8
+Ryan McGowan - DF - 19
+Alex Wilkinson - DF - 22
+Mark Milligan - MF - 5
+Ben Halloran - MF - 10
+Tommy Oar - MF - 11
+Oliver Bozanić - MF - 13
+James Troisi - MF - 14
+Mile Jedinak - MF - 15
+James Holland - MF - 16
+Matt McKay - MF - 17
+Dario Vidošić - MF - 20
+Massimo Luongo - MF - 21
+Mark Bresciano - MF - 23
+Tim Cahill - FW - 4
+Mathew Leckie - FW - 7
+Adam Taggart - FW - 9,
+
+Country: Belgium  
+Thibaut Courtois - GK - 1
+Simon Mignolet - GK - 12
+Sammy Bossut - GK - 13
+Toby Alderweireld - DF - 2
+Thomas Vermaelen - DF - 3
+Vincent Kompany - DF - 4
+Jan Vertonghen - DF - 5
+Daniel Van Buyten - DF - 15
+Nicolas Lombaerts - DF - 18
+Anthony Vanden Borre - DF - 21
+Laurent Ciman - DF - 23
+Axel Witsel - MF - 6
+Kevin De Bruyne - MF - 7
+Marouane Fellaini - MF - 8
+Eden Hazard - MF - 10
+Kevin Mirallas - MF - 11
+Steven Defour - MF - 16
+Mousa Dembélé - MF - 19
+Adnan Januzaj - MF - 20
+Nacer Chadli - MF - 22
+Romelu Lukaku - FW - 9
+Dries Mertens - FW - 14
+Divock Origi - FW - 17,
+
+Country: Bosnia and Herzegovina
+Asmir Begovi - GK - 1
+Jasmin Fejzi - GK - 12
+Asmir Avduki - GK - 22
+Avdija Vröajevi - DF - 2
+Ermin Biaki - DF - 3
+Emir Spahi - DF - 4
+Sead Kolaöinac - DF - 5
+Ognjen Vranjeö - DF - 6
+Muhamed Beöi - DF - 7
+Mensur Mujdûa - DF - 13
+Toni äunji - DF - 15
+Miralem Pjani - MF - 8
+Zvjezdan Misimovi - MF - 10
+Izet Hajrovi - MF - 14
+Senad Luli - MF - 16
+Senijad Ibrii - MF - 17
+Haris Medunjanin - MF - 18
+Anel Hadûi - MF - 20
+Tino-Sven Suöi - MF - 21
+Sejad Salihovi - MF - 23
+Vedad Ibiöevi - FW - 9
+Edin Dûeko - FW - 11
+Edin Viöa - FW - 19,
+
+Country: Brazil 
+Jefferson - GK - 1
+Júlio César - GK - 12
+Victor - GK - 22
+Dani Alves - DF - 2
+Thiago Silva - DF - 3
+David Luiz - DF - 4
+Marcelo - DF - 6
+Dante - DF - 13
+Maxwell - DF - 14
+Henrique - DF - 15
+Maicon - DF - 23
+Fernandinho - MF - 5
+Paulinho - MF - 8
+Oscar - MF - 11
+Ramires - MF - 16
+Luiz Gustavo - MF - 17
+Hernanes - MF - 18
+Willian - MF - 19
+Hulk - FW - 7
+Fred - FW - 9
+Neymar - FW - 10
+Bernard - FW - 20
+Jô - FW - 21,
+
+Country: Cameroon
+Loïc Feudjou - GK - 1
+Charles Itandje - GK - 16
+Sammy N'Djock - GK - 23
+Benoît Assou-Ekotto - DF - 2
+Nicolas N'Koulou - DF - 3
+Cédric Djeugoué - DF - 4
+Dany Nounkeu - DF - 5
+Henri Bedimo - DF - 12
+Aurélien Chedjou - DF - 14
+Allan Nyom - DF - 22
+Alex Song - MF - 6
+Landry N'Guémo - MF - 7
+Jean Makoun - MF - 11
+Stéphane Mbia - MF - 17
+Eyong Enoh - MF - 18
+Edgar Salli - MF - 20
+Joël Matip - MF - 21
+Benjamin Moukandjo - FW - 8
+Samuel Eto'o - FW - 9
+Vincent Aboubakar - FW - 10
+Maxim Choupo-Moting - FW - 13
+Pierre Webó - FW - 15
+Fabrice Olinga - FW - 19,
+
+Country: Chile
+Claudio Bravo - GK - 1
+Cristopher Toselli - GK - 12
+Johnny Herrera - GK - 23
+Eugenio Mena - DF - 2
+Miiko Albornoz - DF - 3
+José Rojas - DF - 13
+Gary Medel - DF - 17
+Gonzalo Jara - DF - 18
+Mauricio Isla - MF - 4
+Francisco Silva - MF - 5
+Carlos Carmona - MF - 6
+Arturo Vidal - MF - 8
+Jorge Valdívia - MF - 10
+Fabián Orellana - MF - 14
+Jean Beausejour - MF - 15
+Felipe Gutiérrez - MF - 16
+José Pedro Fuenzalida - MF - 19
+Charles Aránguiz - MF - 20
+Marcelo Díaz - MF - 21
+Alexis Sánchez - FW - 7
+Mauricio Pinilla - FW - 9
+Eduardo Vargas - FW - 11
+Esteban Paredes - FW - 22,
+
+Country: Colombia
+David Ospina - GK - 1
+Camilo Vargas - GK - 12
+Faryd MondragÛn - GK - 22
+Cristi·n Zapata - DF - 2
+Mario Yepes - DF - 3
+Santiago Arias - DF - 4
+Pablo Armero - DF - 7
+…der ¡lvarez Balanta - DF - 16
+Juan Camilo Z˙Òiga - DF - 18
+Carlos ValdÈs - DF - 23
+Carlos Carbonero - MF - 5
+Carlos S·nchez - MF - 6
+Abel Aguilar - MF - 8
+James RodrÌguez - MF - 10
+Juan Guillermo Cuadrado - MF - 11
+Fredy GuarÌn - MF - 13
+VÌctor Ibarbo - MF - 14
+Alexander MejÌa - MF - 15
+Juan Fernando Quintero - MF - 20
+TeÛfilo GutiÈrrez - FW - 9
+Carlos Bacca - FW - 17
+Adri·n Ramos - FW - 19
+Jackson MartÌnez - FW - 21,
+
+Country: Costa Rica   
+Keylor Navas - GK - 1
+Patrick Pemberton - GK - 18
+Daniel Cambronero - GK - 23
+Johnny Acosta - DF - 2
+Giancarlo González - DF - 3
+Michael Umaña - DF - 4
+Óscar Duarte - DF - 6
+Heiner Mora - DF - 8
+Waylon Francis - DF - 12
+Júnior Díaz - DF - 15
+Cristian Gamboa - DF - 16
+Roy Miller - DF - 19
+Celso Borges - MF - 5
+Christian Bolaños - MF - 7
+Michael Barrantes - MF - 11
+Esteban Granados - MF - 13
+Yeltsin Tejeda - MF - 17
+Diego Calvo - MF - 20
+José Miguel Cubero - MF - 22
+Joel Campbell - FW - 9
+Bryan Ruiz - FW - 10
+Randall Brenes - FW - 14
+Marco Ureña - FW - 21,
+
+Country: Cote d'Ivoire
+Boubacar Barry - GK - 1
+Sylvain Gbohouo - GK - 16
+Sayouba Mandé - GK - 23
+Ousmane Viera - DF - 2
+Arthur Boka - DF - 3
+Kolo Touré - DF - 4
+Didier Zokora - DF - 5
+Jean-Daniel Akpa-Akpro - DF - 7
+Serge Aurier - DF - 17
+Constant Djakpa - DF - 18
+Sol Bamba - DF - 22
+Cheick Tioté - MF - 9
+Didier Ya Konan - MF - 13
+Ismaël Diomandé - MF - 14
+Yaya Touré - MF - 19
+Serey Die - MF - 20
+Mathis Bolly - FW - 6
+Salomon Kalou - FW - 8
+Gervinho - FW - 10
+Didier Drogba - FW - 11
+Wilfried Bony - FW - 12
+Max Gradel - FW - 15
+Giovanni Sio - FW - 21,
+
+Country: Croatia
+Stipe Pletikosa - GK - 1
+Oliver Zelenika - GK - 12
+Danijel Subaši - GK - 23
+Šime Vrsaljko - DF - 2
+Danijel Pranji - DF - 3
+Vedran ?orluka - DF - 5
+Dejan Lovren - DF - 6
+Darijo Srna - DF - 11
+Gordon Schildenfeld - DF - 13
+Domagoj Vida - DF - 21
+Ivan Periši - MF - 4
+Ivan Rakiti - MF - 7
+Ognjen Vukojevi - MF - 8
+Luka Modri - MF - 10
+Marcelo Brozovi - MF - 14
+Ivan Molini - MF - 15
+Sammir - MF - 19
+Mateo Kovaki - MF - 20
+Nikica Jelavi - FW - 9
+Ante Rebi - FW - 16
+Mario Mandžuki - FW - 17
+Ivica Oli - FW - 18
+Eduardo - FW - 22,
+
+Country: Ecuador
+Máximo Banguera - GK - 1
+Adrián Bone - GK - 12
+Alexander Domínguez - GK - 22
+Jorge Guagua - DF - 2
+Frickson Erazo - DF - 3
+Juan Carlos Paredes - DF - 4
+Walter Ayoví - DF - 10
+Óscar Bagüí - DF - 18
+Gabriel Achilier - DF - 21
+Renato Ibarra - MF - 5
+Christian Noboa - MF - 6
+Jefferson Montero - MF - 7
+Édison Méndez - MF - 8
+Joao Rojas - MF - 9
+Segundo Castillo - MF - 14
+Michael Arroyo - MF - 15
+Antonio Valencia - MF - 16
+Luis Saritama - MF - 19
+Fidel Martínez - MF - 20
+Carlos Gruezo - MF - 23
+Felipe Caicedo - FW - 11
+Enner Valencia - FW - 13
+Jaime Ayoví - FW - 17,
+
+Country: England
+Joe Hart - GK - 1
+Ben Foster - GK - 13
+Fraser Forster - GK - 22
+Glen Johnson - DF - 2
+Leighton Baines - DF - 3
+Gary Cahill - DF - 5
+Phil Jagielka - DF - 6
+Chris Smalling - DF - 12
+Phil Jones - DF - 16
+Luke Shaw - DF - 23
+Steven Gerrard - MF - 4
+Jack Wilshere - MF - 7
+Frank Lampard - MF - 8
+Jordan Henderson - MF - 14
+Alex Oxlade-Chamberlain - MF - 15
+James Milner - MF - 17
+Raheem Sterling - MF - 19
+Adam Lallana - MF - 20
+Ross Barkley - MF - 21
+Daniel Sturridge - FW - 9
+Wayne Rooney - FW - 10
+Danny Welbeck - FW - 11
+Rickie Lambert - FW - 18,
+
+Country: France
+Hugo Lloris - GK - 1
+Stéphane Ruffier - GK - 16
+Mickaël Landreau - GK - 23
+Mathieu Debuchy - DF - 2
+Patrice Evra - DF - 3
+Raphaël Varane - DF - 4
+Mamadou Sakho - DF - 5
+Eliaquim Mangala - DF - 13
+Bacary Sagna - DF - 15
+Lucas Digne - DF - 17
+Laurent Koscielny - DF - 21
+Yohan Cabaye - MF - 6
+Mathieu Valbuena - MF - 8
+Antoine Griezmann - MF - 11
+Rio Mavuba - MF - 12
+Blaise Matuidi - MF - 14
+Moussa Sissoko - MF - 18
+Paul Pogba - MF - 19
+Morgan Schneiderlin - MF - 22
+Rémy Cabella - FW - 7
+Olivier Giroud - FW - 9
+Karim Benzema - FW - 10
+Loïc Rémy - FW - 20,
+
+Country: Germany
+Manuel Neuer - GK - 1
+Ron-Robert Zieler - GK - 12
+Roman Weidenfeller - GK - 22
+Kevin Großkreutz - DF - 2
+Benedikt Höwedes - DF - 4
+Mats Hummels - DF - 5
+Erik Durm - DF - 15
+Philipp Lahm - DF - 16
+Per Mertesacker - DF - 17
+Jérôme Boateng - DF - 20
+Matthias Ginter - MF - 3
+Sami Khedira - MF - 6
+Bastian Schweinsteiger - MF - 7
+Mesut Özil - MF - 8
+André Schürrle - MF - 9
+Thomas Müller - MF - 13
+Julian Draxler - MF - 14
+Toni Kroos - MF - 18
+Mario Götze - MF - 19
+Marco Reus - MF - 21
+Christoph Kramer - MF - 23
+Lukas Podolski - FW - 10
+Miroslav Klose - FW - 11,
+
+Country: Ghana
+Steven Adams - GK - 1
+Adam Kwarasey - GK - 12
+Fatau Dauda - GK - 16
+Samuel Inkoom - DF - 2
+Daniel Opare - DF - 4
+Rashid Sumaila - DF - 15
+Jonathan Mensah - DF - 19
+John Boye - DF - 21
+Harrison Afful - DF - 23
+Michael Essien - MF - 5
+Afriyie Acquah - MF - 6
+Christian Atsu - MF - 7
+Emmanuel Agyemang-Badu - MF - 8
+André Ayew - MF - 10
+Sulley Muntari - MF - 11
+Albert Adomah - MF - 14
+Mohammed Rabiu - MF - 17
+Kwadwo Asamoah - MF - 20
+Wakaso Mubarak - MF - 22
+Asamoah Gyan - FW - 3
+Kevin-Prince Boateng - FW - 9
+Jordan Ayew - FW - 13
+Majeed Waris - FW - 18,
+
+Country: Greece
+Orestis Karnezis - GK - 1
+Panagiotis Glykos - GK - 12
+Stefanos Kapino - GK - 13
+Giannis Maniatis - DF - 2
+Giorgos Tzavellas - DF - 3
+Kostas Manolas - DF - 4
+Vangelis Moras - DF - 5
+Loukas Vyntra - DF - 11
+Vasilis Torosidis - DF - 15
+Sokratis Papastathopoulos - DF - 19
+José Holebas - DF - 20
+Alexandros Tziolis - MF - 6
+Panagiotis Kone - MF - 8
+Giorgos Karagounis - MF - 10
+Lazaros Christodoulopoulos - MF - 16
+Giannis Fetfatzidis - MF - 18
+Kostas Katsouranis - MF - 21
+Andreas Samaris - MF - 22
+Panagiotis Tachtsidis - MF - 23
+Giorgos Samaras - FW - 7
+Kostas Mitroglou - FW - 9
+Dimitris Salpingidis - FW - 14
+Theofanis Gekas - FW - 17,
+
+Country: Honduras
+Luis López - GK - 1
+Noel Valladares - GK - 18
+Donis Escober - GK - 22
+Osman Chávez - DF - 2
+Maynor Figueroa - DF - 3
+Juan Pablo Montes - DF - 4
+Víctor Bernárdez - DF - 5
+Juan Carlos García - DF - 6
+Emilio Izaguirre - DF - 7
+Brayan Beckeles - DF - 23
+Wilson Palacios - MF - 8
+Mario Martínez - MF - 10
+Edder Delgado - MF - 12
+Óscar García - MF - 14
+Roger Espinoza - MF - 15
+Marvin Chávez - MF - 17
+Luis Garrido - MF - 19
+Jorge Claros - MF - 20
+Andy Najar - MF - 21
+Jerry Palacios - FW - 9
+Jerry Bengtson - FW - 11
+Carlo Costly - FW - 13
+Rony Martínez - FW - 16,
+
+Country: Iran
+Rahman Ahmadi - GK - 1
+Alireza Haghighi - GK - 12
+Daniel Davari - GK - 22
+Jalal Hosseini - DF - 4
+Amir Hossein Sadeghi - DF - 5
+Hossein Mahini - DF - 13
+Pejman Montazeri - DF - 15
+Ahmad Alenemeh - DF - 17
+Hashem Beikzadeh - DF - 19
+Steven Beitashour - DF - 20
+Mehrdad Pouladi - DF - 23
+Khosro Heydari - MF - 2
+Ehsan Hajsafi - MF - 3
+Javad Nekounam - MF - 6
+Masoud Shojaei - MF - 7
+Reza Haghighi - MF - 8
+Ghasem Haddadifar - MF - 11
+Andranik Teymourian - MF - 14
+Bakhtiar Rahmani - MF - 18
+Ashkan Dejagah - MF - 21
+Alireza Jahanbakhsh - FW - 9
+Karim Ansarifard - FW - 10
+Reza Ghoochannejhad - FW - 16,
+
+Country: Italy
+Gianluigi Buffon - GK - 1
+Salvatore Sirigu - GK - 12
+Mattia Perin - GK - 13
+Mattia De Sciglio - DF - 2
+Giorgio Chiellini - DF - 3
+Matteo Darmian - DF - 4
+Ignazio Abate - DF - 7
+Andrea Barzagli - DF - 15
+Leonardo Bonucci - DF - 19
+Gabriel Paletta - DF - 20
+Thiago Motta - MF - 5
+Antonio Candreva - MF - 6
+Claudio Marchisio - MF - 8
+Alberto Aquilani - MF - 14
+Daniele De Rossi - MF - 16
+Marco Parolo - MF - 18
+Andrea Pirlo - MF - 21
+Marco Verratti - MF - 23
+Mario Balotelli - FW - 9
+Antonio Cassano - FW - 10
+Alessio Cerci - FW - 11
+Ciro Immobile - FW - 17
+Lorenzo Insigne - FW - 22,
+
+Country: Japan
+Eiji Kawashima - GK - 1
+Shusaku Nishikawa - GK - 12
+Shichi Gonda - GK - 23
+Atsuto Uchida - DF - 2
+Gatoku Sakai - DF - 3
+Yuto Nagatomo - DF - 5
+Masato Morishige - DF - 6
+Yasuyuki Konno - DF - 15
+Masahiko Inoha - DF - 19
+Hiroki Sakai - DF - 21
+Maya Yoshida - DF - 22
+Keisuke Honda - MF - 4
+Yasuhito End - MF - 7
+Hiroshi Kiyotake - MF - 8
+Shinji Kagawa - MF - 10
+Toshihiro Aoyama - MF - 14
+Hotaru Yamaguchi - MF - 16
+Makoto Hasebe - MF - 17
+Shinji Okazaki - FW - 9
+Yoichiro Kakitani - FW - 11
+Yoshito kubo - FW - 13
+Yuya Osako - FW - 18
+Manabu Sait - FW - 20,
+
+Country: Mexico
+JosÈ de Jes˙s Corona - GK - 1
+Alfredo Talavera - GK - 12
+Guillermo Ochoa - GK - 13
+Francisco Javier RodrÌguez - DF - 2
+Carlos Salcido - DF - 3
+Rafael M·rquez - DF - 4
+Diego Reyes - DF - 5
+Miguel Lay˙n - DF - 7
+HÈctor Moreno - DF - 15
+Miguel ¡ngel Ponce - DF - 16
+AndrÈs Guardado - DF - 18
+Paul Aguilar - DF - 22
+HÈctor Herrera - MF - 6
+Marco Fabi·n - MF - 8
+Isa·c Brizuela - MF - 17
+Javier Aquino - MF - 20
+Carlos PeÒa - MF - 21
+JosÈ Juan V·zquez - MF - 23
+Ra˙l JimÈnez - FW - 9
+Giovani dos Santos - FW - 10
+Alan Pulido - FW - 11
+Javier Hern·ndez - FW - 14
+Oribe Peralta - FW - 19,
+
+Country: Netherlands
+Jasper Cillessen - GK - 1
+Michel Vorm - GK - 22
+Tim Krul - GK - 23
+Ron Vlaar - DF - 2
+Stefan de Vrij - DF - 3
+Bruno Martins Indi - DF - 4
+Daley Blind - DF - 5
+Daryl Janmaat - DF - 7
+Paul Verhaegh - DF - 12
+Joël Veltman - DF - 13
+Terence Kongolo - DF - 14
+Jonathan de Guzmán - MF - 6
+Nigel de Jong - MF - 8
+Wesley Sneijder - MF - 10
+Arjen Robben - MF - 11
+Jordy Clasie - MF - 16
+Leroy Fer - MF - 18
+Georginio Wijnaldum - MF - 20
+Memphis Depay - MF - 21
+Robin van Persie - FW - 9
+Dirk Kuyt - FW - 15
+Jeremain Lens - FW - 17
+Klaas-Jan Huntelaar - FW - 19,
+
+Country: Nigeria    
+Vincent Enyeama - GK - 1
+Austin Ejide - GK - 16
+Chigozie Agbim - GK - 21
+Joseph Yobo - DF - 2
+Uwa Elderson Echiéjilé - DF - 3
+Efe Ambrose - DF - 5
+Azubuike Egwuekwe - DF - 6
+Kunle Odunlami - DF - 12
+Juwon Oshaniwa - DF - 13
+Godfrey Oboabona - DF - 14
+Kenneth Omeruo - DF - 22
+Reuben Gabriel - MF - 4
+John Obi Mikel - MF - 10
+Victor Moses - MF - 11
+Ramon Azeez - MF - 15
+Ogenyi Onazi - MF - 17
+Michael Babatunde - MF - 18
+Ahmed Musa - FW - 7
+Peter Odemwingie - FW - 8
+Emmanuel Emenike - FW - 9
+Uche Nwofor - FW - 19
+Michael Uchebo - FW - 20
+Shola Ameobi - FW - 23,
+
+Country: Portugal
+Eduardo - GK - 1
+Rui Patrício - GK - 12
+Beto - GK - 22
+Bruno Alves - DF - 2
+Pepe - DF - 3
+Fábio Coentrão - DF - 5
+Ricardo Costa - DF - 13
+Luís Neto - DF - 14
+André Almeida - DF - 19
+João Pereira - DF - 21
+Miguel Veloso - MF - 4
+William Carvalho - MF - 6
+João Moutinho - MF - 8
+Vieirinha - MF - 10
+Rafa Silva - MF - 15
+Raul Meireles - MF - 16
+Nani - MF - 17
+Silvestre Varela - MF - 18
+Rúben Amorim - MF - 20
+Cristiano Ronaldo - FW - 7
+Hugo Almeida - FW - 9
+Éder - FW - 11
+Hélder Postiga - FW - 23,
+
+Country: Russia
+Igor Akinfeev - GK - 1
+Yuri Lodygin - GK - 12
+Sergey Ryzhikov - GK - 16
+Aleksei Kozlov - DF - 2
+Georgi Shchennikov - DF - 3
+Sergei Ignashevich - DF - 4
+Andrei Semyonov - DF - 5
+Vladimir Granat - DF - 13
+Vasili Berezutski - DF - 14
+Andrey Yeshchenko - DF - 22
+Dmitri Kombarov - DF - 23
+Igor Denisov - MF - 7
+Denis Glushakov - MF - 8
+Alan Dzagoev - MF - 10
+Roman Shirokov - MF - 15
+Oleg Shatov - MF - 17
+Viktor Fayzulin - MF - 20
+Maksim Kanunnikov - FW - 6
+Aleksandr Kokorin - FW - 9
+Aleksandr Kerzhakov - FW - 11
+Yuri Zhirkov - FW - 18
+Aleksandr Samedov - FW - 19
+Aleksei Ionov - FW - 21,
+
+Country: South Korea
+Jung Sung-Ryong - GK - 1
+Kim Seung-Gyu - GK - 21
+Lee Bum-Young - GK - 23
+Kim Chang-Soo - DF - 2
+Yun Suk-Young - DF - 3
+Kwak Tae-Hwi - DF - 4
+Kim Young-Gwon - DF - 5
+Hwang Seok-Ho - DF - 6
+Lee Yong - DF - 12
+Hong Jeong-Ho - DF - 20
+Park Joo-Ho - DF - 22
+Kim Bo-Kyung - MF - 7
+Ha Dae-Sung - MF - 8
+Koo Ja-Cheol - MF - 13
+Han Kook-Young - MF - 14
+Park Jong-Woo - MF - 15
+Ki Sung-Yueng - MF - 16
+Lee Chung-Yong - MF - 17
+Son Heung-Min - FW - 9
+Park Chu-Young - FW - 10
+Lee Keun-Ho - FW - 11
+Kim Shin-Wook - FW - 18
+Ji Dong-Won - FW - 19,
+
+Country: Spain
+Iker Casillas - GK - 1
+David de Gea - GK - 12
+Pepe Reina - GK - 23
+Raúl Albiol - DF - 2
+Gerard Piqué - DF - 3
+Juanfran - DF - 5
+Sergio Ramos - DF - 15
+Jordi Alba - DF - 18
+César Azpilicueta - DF - 22
+Javi Martínez - MF - 4
+Andrés Iniesta - MF - 6
+Xavi - MF - 8
+Cesc Fàbregas - MF - 10
+Juan Mata - MF - 13
+Xabi Alonso - MF - 14
+Sergio Busquets - MF - 16
+Koke - MF - 17
+Santi Cazorla - MF - 20
+David Silva - MF - 21
+David Villa - FW - 7
+Fernando Torres - FW - 9
+Pedro - FW - 11
+Diego Costa - FW - 19,
+
+Country: Switzerland
+Diego Benaglio - GK - 1
+Yann Sommer - GK - 12
+Roman Bürki - GK - 21
+Stephan Lichtsteiner - DF - 2
+Reto Ziegler - DF - 3
+Philippe Senderos - DF - 4
+Steve von Bergen - DF - 5
+Michael Lang - DF - 6
+Ricardo Rodríguez - DF - 13
+Johan Djourou - DF - 20
+Fabian Schär - DF - 22
+Tranquillo Barnetta - MF - 7
+Gökhan Inler - MF - 8
+Granit Xhaka - MF - 10
+Valon Behrami - MF - 11
+Valentin Stocker - MF - 14
+Blerim Džemaili - MF - 15
+Gelson Fernandes - MF - 16
+Xherdan Shaqiri - MF - 23
+Haris Seferović - FW - 9
+Mario Gavranović - FW - 17
+Admir Mehmedi - FW - 18
+Josip Drmić - FW - 19,
+
+Country: United States
+Tim Howard - GK - 1
+Brad Guzan - GK - 12
+Nick Rimando - GK - 22
+DeAndre Yedlin - DF - 2
+Omar Gonzalez - DF - 3
+Matt Besler - DF - 5
+John Brooks - DF - 6
+DaMarcus Beasley - DF - 7
+Geoff Cameron - DF - 20
+Timothy Chandler - DF - 21
+Fabian Johnson - DF - 23
+Michael Bradley - MF - 4
+Mikkel Diskerud - MF - 10
+Alejandro Bedoya - MF - 11
+Jermaine Jones - MF - 13
+Brad Davis - MF - 14
+Kyle Beckerman - MF - 15
+Julian Green - MF - 16
+Graham Zusi - MF - 19
+Clint Dempsey - FW - 8
+Aron Jóhannsson - FW - 9
+Jozy Altidore - FW - 17
+Chris Wondolowski - FW - 18,
+
+Country: Uruguay
+Fernando Muslera - GK - 1
+Rodrigo MuÒoz - GK - 12
+MartÌn Silva - GK - 23
+Diego Lugano - DF - 2
+Diego GodÌn - DF - 3
+Sebasti·n Coates - DF - 4
+Jorge Fucile - DF - 13
+Maxi Pereira - DF - 16
+JosÈ MarÌa GimÈnez - DF - 19
+MartÌn C·ceres - DF - 22
+Walter Gargano - MF - 5
+¡lvaro Pereira - MF - 6
+Cristian RodrÌguez - MF - 7
+Nicol·s Lodeiro - MF - 14
+Diego PÈrez - MF - 15
+Egidio ArÈvalo RÌos - MF - 17
+GastÛn RamÌrez - MF - 18
+¡lvaro Gonz·lez - MF - 20
+Abel Hern·ndez - FW - 8
+Luis Su·rez - FW - 9
+Diego Forl·n - FW - 10
+Christian Stuani - FW - 11
+Edinson Cavani - FW - 21
+]

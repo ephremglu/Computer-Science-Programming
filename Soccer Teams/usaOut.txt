@@ -1,0 +1,26 @@
+[
+Country: United States
+DeAndre Yedlin - DF - 2
+Omar Gonzalez - DF - 3
+Matt Besler - DF - 5
+John Brooks - DF - 6
+DaMarcus Beasley - DF - 7
+Geoff Cameron - DF - 20
+Timothy Chandler - DF - 21
+Fabian Johnson - DF - 23
+Clint Dempsey - FW - 8
+Aron Jóhannsson - FW - 9
+Jozy Altidore - FW - 17
+Chris Wondolowski - FW - 18
+Tim Howard - GK - 1
+Brad Guzan - GK - 12
+Nick Rimando - GK - 22
+Michael Bradley - MF - 4
+Mikkel Diskerud - MF - 10
+Alejandro Bedoya - MF - 11
+Jermaine Jones - MF - 13
+Brad Davis - MF - 14
+Kyle Beckerman - MF - 15
+Julian Green - MF - 16
+Graham Zusi - MF - 19
+]
