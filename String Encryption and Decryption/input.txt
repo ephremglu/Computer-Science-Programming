@@ -1,0 +1,12 @@
+this is a string
+rt
+2
+hello world
+lt
+36
+STU
+lt
+1
+is this enough of a test
+rt
+26
